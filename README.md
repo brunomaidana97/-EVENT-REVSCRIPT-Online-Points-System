@@ -1,7 +1,5 @@
 # EVENT REVSCRIPT Online Points System
 
-# SYSTEM REVSCRIPT / VipSystem
-
 **Observações:**
 
 » **O sistema pode conter erros, então antes de reclamar, por favor reporte.**<br>
