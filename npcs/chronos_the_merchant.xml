@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Chronos the Merchant" walkinterval="2000" floorchange="0" script="onlinepoints.lua">
+	<health now="100" max="100"/>
+	<look type="1243" head="0" body="57" legs="0" feet="68" addons="2"/>
+	<parameters>
+		<parameter key="message_greet" value="Hail, |PLAYERNAME|! How can I help you? I have some {items} and {others} that I {trade} for online tokens."/>
+	</parameters>
+</npc>
